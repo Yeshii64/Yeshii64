@@ -2,7 +2,7 @@
 <br>
 👨🏾‍🎓Computer Science Student at Andrews University
 <br>
-👩🏾‍💻I make Kotlin Applications, Websites, and videogames! <br>
+👩🏾‍💻I make Kotlin applications, websites, and videogames! <br>
 📧You can <i>contact</i> me at: afflickyeshua@gmail.com
 
 
